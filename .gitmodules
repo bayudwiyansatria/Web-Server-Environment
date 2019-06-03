@@ -1,6 +1,8 @@
 [submodule "NGINX-Environment"]
 	path = NGINX-Environment
 	url = git@github.com:bayudwiyansatria/NGINX-Environment.git
+	master = master
 [submodule "Apache-HTTP-Environment"]
 	path = Apache-HTTP-Environment
 	url = git@github.com:bayudwiyansatria/Apache-HTTP-Environment.git
+	master = master
